@@ -4,4 +4,7 @@
   Pasta
   Chicken Fry
   
+  Beans
+  Pizza
+  
   Thanks You :)
